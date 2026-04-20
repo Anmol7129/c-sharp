@@ -1,0 +1,14 @@
+/Users/anmolthapa/C#/Myapp/bin/Debug/net10.0/Myapp
+/Users/anmolthapa/C#/Myapp/bin/Debug/net10.0/Myapp.deps.json
+/Users/anmolthapa/C#/Myapp/bin/Debug/net10.0/Myapp.runtimeconfig.json
+/Users/anmolthapa/C#/Myapp/bin/Debug/net10.0/Myapp.dll
+/Users/anmolthapa/C#/Myapp/bin/Debug/net10.0/Myapp.pdb
+/Users/anmolthapa/C#/Myapp/obj/Debug/net10.0/Myapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anmolthapa/C#/Myapp/obj/Debug/net10.0/Myapp.AssemblyInfoInputs.cache
+/Users/anmolthapa/C#/Myapp/obj/Debug/net10.0/Myapp.AssemblyInfo.cs
+/Users/anmolthapa/C#/Myapp/obj/Debug/net10.0/Myapp.csproj.CoreCompileInputs.cache
+/Users/anmolthapa/C#/Myapp/obj/Debug/net10.0/Myapp.dll
+/Users/anmolthapa/C#/Myapp/obj/Debug/net10.0/refint/Myapp.dll
+/Users/anmolthapa/C#/Myapp/obj/Debug/net10.0/Myapp.pdb
+/Users/anmolthapa/C#/Myapp/obj/Debug/net10.0/Myapp.genruntimeconfig.cache
+/Users/anmolthapa/C#/Myapp/obj/Debug/net10.0/ref/Myapp.dll
