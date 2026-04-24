@@ -12,3 +12,4 @@
 /Users/anmolthapa/C#/Myapp/obj/Debug/net10.0/Myapp.pdb
 /Users/anmolthapa/C#/Myapp/obj/Debug/net10.0/Myapp.genruntimeconfig.cache
 /Users/anmolthapa/C#/Myapp/obj/Debug/net10.0/ref/Myapp.dll
+/Users/anmolthapa/C#/Myapp/obj/Debug/net10.0/Myapp.sourcelink.json
